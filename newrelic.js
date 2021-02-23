@@ -9,7 +9,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['htp1'],
+  app_name: ['hacktheplanet'],
   /**
    * Your New Relic license key.
    */
